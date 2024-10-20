@@ -1,4 +1,4 @@
-# Supply-Chain-Case-Study-SQL
+# Supply Chain Analysis - MySQL
 
 ## Introduction
 In this case study, we explored the management and analysis of a comprehensive supply chain database for **"Richard's Supply,"** a company specializing in various food products. The database, spanning 2 years, includes critical tables such as **Customers**, **Orders**, **Order Items**, **Products**, and **Suppliers**. Our primary objective was to derive insights and address specific business questions related to supply chain operations.
